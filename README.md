@@ -17,7 +17,7 @@ Tektalk is an application in which the user is given an opportunity to learn a n
 *Android Studio used: V 4.0.1
 *Android API: 28
 
-### The following are the basic non-fundamental requirements that are needed to be satisfied for the said program: 
+### The following are the basic non-fundamental requirements that are needed to be satisfied for the said application: 
 
 
 ## Android Requirements:
