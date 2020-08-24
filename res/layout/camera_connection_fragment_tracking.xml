@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+      <com.tektalk.finalcode.AutoFitTextureView
+          android:id="@+id/texture"
+          android:layout_width="wrap_content"
+          android:layout_height="712dp" />
+
+      <com.tektalk.finalcode.OverlayView
+          android:id="@+id/tracking_overlay"
+          android:layout_width="match_parent"
+          android:layout_height="712dp" />
+
+
+      <com.tektalk.finalcode.OverlayView
+          android:id="@+id/debug_overlay"
+          android:layout_width="match_parent"
+          android:layout_height="712dp" />
+
+      <Button
+          android:id="@+id/capture"
+          android:layout_width="wrap_content"
+          android:layout_height="93dp"
+          android:layout_alignParentStart="true"
+          android:layout_alignParentEnd="true"
+          android:layout_alignParentBottom="true"
+          android:layout_centerHorizontal="true"
+          android:layout_gravity="bottom"
+          android:layout_marginStart="100dp"
+          android:layout_marginEnd="89dp"
+          android:layout_marginBottom="0dp"
+          android:background="@drawable/embbeded"
+          android:onClick="Capture"
+          android:text="CAPTURE!"
+          android:textColor="#FFFFFF"
+          android:textSize="14sp"
+          android:textStyle="bold" />
+
+      <Button
+          android:id="@+id/custom_button"
+          android:layout_width="100dp"
+          android:layout_height="85dp"
+          android:layout_alignParentBottom="true"
+          android:layout_marginBottom="4dp"
+          android:background="@drawable/ic_volumewhite" />
+
+      <Button
+          android:id="@+id/save"
+          android:layout_width="82dp"
+          android:layout_height="93dp"
+          android:layout_alignParentEnd="true"
+          android:layout_alignParentBottom="true"
+          android:layout_marginEnd="2dp"
+          android:layout_marginBottom="0dp"
+          android:background="@drawable/embbeded"
+          android:text="SAVE"
+          android:textColor="#FFFFFF"
+          android:textSize="14sp"
+          android:textStyle="bold" />
+
+
+      <Button
+          android:id="@+id/speech"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentStart="true"
+          android:layout_alignParentEnd="true"
+          android:layout_alignParentBottom="true"
+          android:layout_centerHorizontal="true"
+          android:layout_marginStart="3dp"
+          android:layout_marginEnd="5dp"
+          android:layout_marginBottom="100dp"
+          android:background="@drawable/bluepanel"
+          android:text="TekTalkBack"
+          android:textSize="12sp"
+          android:textStyle="bold" />
+
+      <TextView
+          android:id="@+id/txtViewSpeech"
+          android:layout_width="match_parent"
+          android:layout_height="38dp"
+          android:layout_alignParentStart="true"
+          android:layout_alignParentEnd="true"
+          android:layout_alignParentBottom="true"
+          android:layout_centerHorizontal="true"
+          android:layout_marginStart="5dp"
+          android:layout_marginEnd="-5dp"
+          android:layout_marginBottom="393dp"
+          android:gravity="center"
+          android:textColor="#FFFFFF"
+          android:textSize="18sp"
+          android:textStyle="bold" />
+
+
+</RelativeLayout>

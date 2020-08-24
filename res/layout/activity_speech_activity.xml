@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.tektalk.finalcode.SpeechActivity">
+
+    <TextView
+        android:id="@+id/talkbackScore"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="387dp"
+        android:gravity="center"
+        android:text="TekTalkback Score"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/speechCaptured"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="203dp"
+        android:gravity="center"
+        android:text="Speech Captured"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/txvResult"
+        android:layout_width="205dp"
+        android:layout_height="98dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="277dp"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="26sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/passResultFromDetector"
+        android:layout_width="206dp"
+        android:layout_height="71dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="119dp"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="26sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/resultScoring"
+        android:layout_width="205dp"
+        android:layout_height="98dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="435dp"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="26sp"
+        android:textStyle="normal" />
+
+    <ImageView
+        android:id="@+id/btnSpeak"
+        android:layout_width="138dp"
+        android:layout_height="99dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="86dp"
+        android:gravity="center"
+        android:onClick="getSpeechInput"
+        android:src="@drawable/ic_mic" />
+
+    <Button
+        android:id="@+id/btnMainMenuTalkBack"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="30dp"
+        android:text="Main Menu" />
+
+
+    <Button
+        android:id="@+id/custom_button"
+        android:layout_width="62dp"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="538dp"
+        android:background="@drawable/ic_volume" />
+
+    <Button
+        android:id="@+id/btnLearnAgain"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginBottom="30dp"
+        android:text="Learn Again" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp"
+        android:gravity="center"
+        android:text="Word Captured"
+        android:textSize="30sp" />
+
+</RelativeLayout>

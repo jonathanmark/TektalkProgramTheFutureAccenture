@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126158216728",
+    "firebase_url": "https://tektalk-89c6e.firebaseio.com",
+    "project_id": "tektalk-89c6e",
+    "storage_bucket": "tektalk-89c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126158216728:android:541197e4a1506d7184ad6d",
+        "android_client_info": {
+          "package_name": "com.tektalk.finalcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126158216728-b98udi3mttebtgt4ud3utk7n3qhfj40e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tektalk.finalcode",
+            "certificate_hash": "913b8f7023c6d0c9d7c537b4c9330de59d1a1dd4"
+          }
+        },
+        {
+          "client_id": "126158216728-1dj9v6os0pl5tvv839kra2f0o9m8k8mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_whx5WEsF-NNaR4t0eJKOuo3-4jBiH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126158216728-1dj9v6os0pl5tvv839kra2f0o9m8k8mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
