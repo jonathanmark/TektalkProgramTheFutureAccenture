@@ -4,20 +4,32 @@
 
 Tektalk is an application in which the user is given an opportunity to learn a new language in a more fun and interactive way by letting the learner learn from their own environment, teaching them the correct pronunciation of a language and a fun gameplay with a community. The idea was realized by mainly using the two emerging technologies Augmented Reality (AR) and Artifical Intelligence (AI)
 
-
 ## Interface Requirements 
 
 1. Real time camera detecting an object 
 2. Real time displaying the translated word
 3. Label the object using bounding box RectF
 
+
+## Code Viewing
+
+*Make sure to install proper NDK in your local copy of android studio
+*Android Studio used: V 4.0.1
+*Android API: 28
+
 ### The following are the basic non-fundamental requirements that are needed to be satisfied for the said program: 
 
 
 ## Android Requirements:
-The Tektalk operating system is based on the regular version of Android but it’s optimized to run on smartphones with 512 MB to 1 GB of RAM modeled and compatible from Android 8.0 "Oreo"
+1. Our recommended screen aspect ratio is atleast 18:9
+2. We DO NOT recommend 16:9 aspect ratio phones.
+3. Application is in debug mode
+4. Set phone first in developer mode
+5. Recommended android version is oreo
+6. Minimum android version is lollipop
 
 ## How to play the game
+
 ### Download the APK file
 Scan and download the APK file 
 
