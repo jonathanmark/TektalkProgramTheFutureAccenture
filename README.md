@@ -19,6 +19,8 @@ The Tektalk operating system is based on the regular version of Android but itâ€
 
 ## How to play the game
 Scan and download the APK file 
+
+
 <img src ="sample_images/TektalkAPK.png" width = 300>
 
 
