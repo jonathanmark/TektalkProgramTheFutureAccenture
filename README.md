@@ -61,6 +61,8 @@ Saved word displayed in the bookmark section
 
 ### Game
 
+The rule of the game is to find the given translated word and determine if it is correct. If the image captured equates to that or the random word provided by our app then the score would add a point if not it remains the same and the scoring would not add another score unless the previous high score in the 60 secs time frame would be surpassed.
+
 <img src ="sample_images/startGame.jpg" width = 300> <img src ="sample_images/wrongObjectGame.jpg" width = 300>  <img src ="sample_images/CorrectobjectGame.jpg" width = 300> 
 
 ### Result
