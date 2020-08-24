@@ -25,15 +25,23 @@ Scan and download the APK file
 <img src ="sample_images/TektalkAPK.png" width = 300>
 
 
-
-
 ### Log in
 
-### Learn 
+<img src ="sample_images/login.jpg" width = 300> 
+
+### Main Menu
+
+<img src ="sample_images/mainmenu.jpg" width = 300>
 
 ### Select Language 
 
+<img src ="sample_images/SelectLanguage.jpg" width = 300> <img src ="sample_images/ScrollLanguage.jpg" width = 300> <img src ="sample_images/SelectedLanguage.jpg" width = 300>
+
+
 ### Capture an Object to Learn new language
+
+<img src ="sample_images/capturestart.jpg" width = 300> <img src ="sample_images/captured.jpg" width = 300>
+
 
 ### Text to Speech in order to adapt the intonation
 
