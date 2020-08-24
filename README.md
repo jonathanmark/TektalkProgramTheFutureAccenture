@@ -86,7 +86,8 @@ The rule of the game is to find the given translated word and determine if it is
 <img src ="sample_images/leaderboardGame.jpg" width = 300>
 
 
-
+## Infomercial Video 
+https://www.youtube.com/embed/OvV_Z7ulAPQ
 
 
 
