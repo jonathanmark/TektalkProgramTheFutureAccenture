@@ -18,13 +18,14 @@ Tektalk is an application in which the user is given an opportunity to learn a n
 The Tektalk operating system is based on the regular version of Android but it’s optimized to run on smartphones with 512 MB to 1 GB of RAM modeled and compatible from Android 8.0 "Oreo"
 
 ## How to play the game
+### Download the APK file
 Scan and download the APK file 
 
 
 <img src ="sample_images/TektalkAPK.png" width = 300>
 
 
-### Download the APK file
+
 
 ### Log in
 
