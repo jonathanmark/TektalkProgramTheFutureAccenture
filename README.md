@@ -87,7 +87,10 @@ The rule of the game is to find the given translated word and determine if it is
 
 
 ## Infomercial Video 
-https://www.youtube.com/embed/OvV_Z7ulAPQ
+video: https://www.youtube.com/embed/OvV_Z7ulAPQ
+
+## Video Demo
+video: https://youtu.be/boyB0GnMcmo
 
 
 
