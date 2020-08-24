@@ -34,7 +34,7 @@ Tektalk is an application in which the user is given an opportunity to learn a n
 Scan and download the APK file 
 
 
-<img src ="sample_images/TektalkAPK.png" width = 300>
+QR code will be given at the presentation
 
 
 ### Log in
