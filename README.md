@@ -40,24 +40,36 @@ Scan and download the APK file
 
 ### Capture an Object to Learn new language
 
+Click Capture for start viewing the translated word, click the volume button for text-to-speech and correct intonation used of word and save button for your bookmark.
+
 <img src ="sample_images/capturestart.jpg" width = 300> <img src ="sample_images/captured.jpg" width = 300>
 
 
-### Text to Speech in order to adapt the intonation
-
-### Save word for bookmark
-
 ### Tektalkback
 
-### Scoring using our speech algorithm with result using fuzzy algorithm
+Scoring using our speech algorithm with result using fuzzy algorithm
+
+<img src ="sample_images/scoringresult.jpg" width = 300>
+
 
 ### Bookmark
 
+Saved word displayed in the bookmark section 
+
+<img src ="sample_images/bookmark.jpg" width = 300>
+
+
 ### Game
+
+<img src ="sample_images/startGame.jpg" width = 300> <img src ="sample_images/wrongObjectGame.jpg" width = 300>  <img src ="sample_images/CorrectobjectGame.jpg" width = 300> 
 
 ### Result
 
+<img src ="sample_images/resultGame.jpg" width = 300>
+
 ### Leaderboard in Community
+
+<img src ="sample_images/leaderboardGame.jpg" width = 300>
 
 
 
